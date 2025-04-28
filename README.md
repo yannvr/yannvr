@@ -1,4 +1,4 @@
-# HyperDrift // Yann VR
+# From Code to Cosmos
 
 <img src="A_high-resolution_digital_image_captures_a_cosmic_.png" height="300" />
 

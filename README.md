@@ -6,14 +6,6 @@ Hi, I'm Yann VR—a full-stack engineer passionate about building, experimenting
 
 Over the years, I've realized that the best ideas come from pushing boundaries and collaborating with others who share the same drive for innovation.
 
-**What if you could join a community where experimentation and rapid progress are the norm?**
-
 That's what I'm building with [HyperDrift](https://hyperdrift.io).
 
-HyperDrift is a platform for builders, creators, and innovators who want to:
-- Collaborate with like-minded engineers
-- Stay ahead of the curve in tech
-
-
-Checkout what we're building
-👉 [HyperDrift org on GitHub](https://github.com/hyperdrift-io)
+Space is the place: [HyperDrift org on GitHub](https://github.com/hyperdrift-io)
